@@ -1,2 +1,1 @@
-# A1
-Assignment #1
+# JSC370 A1
